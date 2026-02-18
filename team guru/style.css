@@ -1,0 +1,66 @@
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Bai Jamjuree', sans-serif;
+    }
+    
+    
+    .attribution {
+        font-size: 11px;
+        text-align: center;
+    }
+
+    .attribution a {
+        color: hsl(228, 45%, 44%);
+    }
+
+    .header {
+        background-image: url(./images/bg-header-desktop.png);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-items: center;
+        img{
+            width: 100px;
+            padding-top: 50px;
+        }
+    }
+
+    .hero {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+
+    .btn{
+        text-decoration: none;
+        border-style: none;
+        margin:20px 2.5px;
+        padding: 10px 10px;
+        border-radius:30px;
+    }
+
+        #iOS{
+            background-color: hsl(115, 79%, 44%);
+            color: white;
+        }
+
+        #Mac{
+            background-color: hsl(228, 45%, 44%);
+            color: white;
+        }
+
+
+    .snippets{
+        margin-top: 50px;
+    }
+    
+
+
+
+
