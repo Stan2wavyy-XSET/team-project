@@ -37,7 +37,7 @@ p {
   line-height: 1.6;
 }
 
-.btn-group {
+.buttons {
   margin-top: 20px;
 }
 
@@ -58,6 +58,7 @@ p {
 .mac {
   background: hsl(233, 100%, 69%);
 }
+
 
 /* Track Section */
 .snippets {
